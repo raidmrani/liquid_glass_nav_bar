@@ -1,4 +1,4 @@
-# Liquid Glass Navigation Bar 🌊
+# Fluid Glass Navigation Bar 🌊
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.x%20%7C%20Ready-02569B?logo=flutter" alt="Flutter">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raidmrani/liquid_glass_nav_bar/main/assets/liquid_glass_nav_bar.gif" alt="Liquid Glass Navigation Bar Preview" width="340"/>
+  <img src="https://raw.githubusercontent.com/raidmrani/liquid_glass_nav_bar/main/assets/liquid_glass_nav_bar.gif" alt="Fluid Glass Navigation Bar Preview" width="340"/>
 </p>
 
 ---
@@ -16,10 +16,10 @@
 ## 🌟 Overview / نظرة عامة
 
 ### English:
-**Liquid Glass Navigation Bar** is a luxury, modern liquid glass bottom navigation bar with fluid gooey water physics and an intelligent companion floating action widget (`LiquidGlassFab`) for Flutter applications.
+**Fluid Glass Navigation Bar** is a luxury, modern liquid glass bottom navigation bar with fluid gooey water physics and an intelligent companion floating action widget (`LiquidGlassFab`) for Flutter applications.
 
 ### العربية:
-**شريط التنقل الزجاجي المائي (Liquid Glass Navigation Bar)** هو شريط تنقل سفلي زجاجي فاخر وعصري بتأثيرات السوائل المرنة واللزوجة المائية (Gooey Water Droplet) مع زر عائم ذكي متكامل (`LiquidGlassFab`) لتطبيقات Flutter.
+**شريط التنقل الزجاجي السائل (Fluid Glass Navigation Bar)** هو شريط تنقل سفلي زجاجي فاخر وعصري بتأثيرات السوائل المرنة واللزوجة المائية (Gooey Water Droplet) مع زر عائم ذكي متكامل (`LiquidGlassFab`) لتطبيقات Flutter.
 
 ---
 
@@ -51,16 +51,16 @@ Rigorous stress tests have established clear capacity guidelines:
 Add the package to your `pubspec.yaml`:
 ```yaml
 dependencies:
-  liquid_glass_nav_bar: ^1.0.0
+  fluid_glass_nav_bar: ^1.0.0
 ```
 Or run:
 ```bash
-flutter pub add liquid_glass_nav_bar
+flutter pub add fluid_glass_nav_bar
 ```
 
 ### 2. Import / الاستيراد
 ```dart
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
+import 'package:fluid_glass_nav_bar/fluid_glass_nav_bar.dart';
 ```
 
 ---
@@ -75,7 +75,7 @@ Only **3 parameters** are mandatory for the navigation bar (`items`, `currentInd
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
+import 'package:fluid_glass_nav_bar/fluid_glass_nav_bar.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:liquid_glass_nav_bar/liquid_glass_nav_bar.dart';
+import 'package:fluid_glass_nav_bar/fluid_glass_nav_bar.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

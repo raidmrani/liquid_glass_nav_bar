@@ -1,5 +1,5 @@
-name: liquid_glass_nav_bar_example
-description: Demonstrates how to use the liquid_glass_nav_bar package.
+name: fluid_glass_nav_bar_example
+description: Demonstrates how to use the fluid_glass_nav_bar package.
 publish_to: 'none'
 version: 1.0.0
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  liquid_glass_nav_bar:
+  fluid_glass_nav_bar:
     path: ../
 
 dev_dependencies:
