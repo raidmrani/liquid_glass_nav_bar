@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Desktop-blue" alt="Platform">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raidmrani/liquid_glass_nav_bar/main/assets/liquid_glass_nav_bar.gif" alt="Liquid Glass Navigation Bar Preview" width="340"/>
+</p>
+
 ---
 
 ## 🌟 Overview / نظرة عامة
